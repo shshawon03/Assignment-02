@@ -1,0 +1,58 @@
+body {
+  background-color: #ffffff;
+}
+
+.haed5 {
+  border: 4px dashed greenyellow;
+}
+
+.prothom {
+  text-decoration: none;
+  font-size: 16px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  padding: 6px;
+  padding-left: 20px;
+  text-align: left;
+  border: 1px solid #DDD;
+}
+
+.div1 {
+  width: 400px;
+  height: 200px;
+  background-color: tomato;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+  margin: 0px;
+}
+
+.red, .green {
+  width: 300px;
+  height: 300px;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.green {
+  border-radius: 50%;
+}
+
+.blue {
+  width: 600px;
+  height: 500px;
+  background-image: url(../images/snow.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
